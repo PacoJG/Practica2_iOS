@@ -1,4 +1,4 @@
-#Crea un nuevo proyecto de tipo "single view" especifica como bundle identifier: "apellido.nombre.prac2".
+###Crea un nuevo proyecto de tipo "single view" especifica como bundle identifier: "apellido.nombre.prac2".
 
   1. Configura que el app solo funcionará en orientación Portrait
   2. Con los objetos UIKit requeridos, construye la interfaz que se muestra en la imagen adjunta y define las constraints necesarias para que la vista pueda presentarse correctamente en cualquier tamaño de dispositivo. 
